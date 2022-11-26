@@ -1,0 +1,20 @@
+
+body {
+  padding: 1rem;
+  background-color: rgb(233, 233, 233)
+}
+
+button:not(:last-child) {
+  margin-right: .5rem;;
+}
+
+.shopping-card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 2em;
+  box-shadow: 1px 1px 8px gainsboro;
+}
+
+.container {
+  max-width: 400px;
+}
